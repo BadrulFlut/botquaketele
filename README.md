@@ -40,7 +40,7 @@ cd botquaketele
 - Install dependencies by running:
 
 ```bash
-dart pub get
+dart pub get teledart
 ```
 
 ### Step 3: Configure your Bot Token
