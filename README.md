@@ -41,6 +41,7 @@ cd botquaketele
 
 ```bash
 dart pub get
+dart pub get teledart
 ```
 
 ### Step 3: Configure your Bot Token
