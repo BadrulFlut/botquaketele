@@ -36,7 +36,7 @@ cd botquaketele
 
 ### Step 2: Install Dart and necessary packages
 
-- Install Dart SDK: Follow the instructions on the Dart official website.
+- Install Dart SDK: Follow the instructions on the [Dart official website](https://dart.dev/get-dart).
 - Install dependencies by running:
 
 ```bash
