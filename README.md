@@ -30,8 +30,8 @@ This project is a Telegram bot built using the Dart programming language and the
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/telegram-bot.git
-cd telegram-bot
+git clone https://github.com/BadrulFlut/botquaketele.git
+cd botquaketele
 ```
 
 ### Step 2: Install Dart and necessary packages
